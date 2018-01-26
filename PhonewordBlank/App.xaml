@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="PhonewordBlank.App">
+	<Application.Resources>
+		<!-- Application resource dictionary -->
+        <ResourceDictionary>
+            <ControlTemplate x:Key="CustomBlueTemplate">
+                <ScrollView>
+                    <StackLayout>
+                        <Label Text="HEADER" BackgroundColor="Blue" />
+                        <ContentPresenter />
+                        <Label Text="FOOTER" BackgroundColor="Aqua" />
+                    </StackLayout>
+                </ScrollView>
+            </ControlTemplate>
+            <!-- Apply to all ContentView instances
+                <Style TargetType="ContentView">
+                    <Setter Property="ControlTemplate" Value="{StaticResource CustomBlueTemplate}" />
+                </Style>
+            -->
+        </ResourceDictionary>    
+	</Application.Resources>
+</Application>

@@ -1,29 +1,42 @@
 ﻿<Properties StartupConfiguration="{A1FC12D5-DBB7-4A42-9784-B618D3257989}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
     <Files>
-      <File FileName="iOS/Main.cs" Line="1" Column="1" />
-      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="PhonewordBlank/CustomCell.cs" Line="1" Column="1" />
+      <File FileName="PhonewordBlank/CustomViewCell.xaml.cs" Line="13" Column="33" />
+      <File FileName="PhonewordBlank/App.xaml.cs" Line="8" Column="43" />
+      <File FileName="PhonewordBlank/CustomViewCell.xaml" Line="23" Column="1" />
+      <File FileName="PhonewordBlank/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="PhonewordBlank/CallHistoryPage.xaml" Line="27" Column="15" />
+      <File FileName="PhonewordBlank/ListingPage.xaml" Line="33" Column="1" />
+      <File FileName="PhonewordBlank/TestTabbedPage.xaml.cs" Line="39" Column="6" />
+      <File FileName="PhonewordBlank/TestTabbedPage.xaml" Line="25" Column="14" />
+      <File FileName="PhonewordBlank/CallHistoryPage.xaml.cs" Line="15" Column="41" />
+      <File FileName="PhonewordBlank/App.xaml" Line="23" Column="1" />
+      <File FileName="PhonewordBlank/MainPage.xaml.cs" Line="74" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="26" Column="1" />
+      <File FileName="Droid/PhoneDialer.cs" Line="14" Column="10" />
       <File FileName="Droid/packages.config" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/IntToBoolConverter.cs" relfile="PhonewordBlank/IntToBoolConverter.cs" line="16" column="26" />
-      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/IntToBoolConverter.cs" relfile="PhonewordBlank/IntToBoolConverter.cs" line="22" column="1" />
-      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/IntToBoolConverter.cs" relfile="PhonewordBlank/IntToBoolConverter.cs" line="23" column="1" />
-      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="16" column="13" />
-      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="34" column="1" />
-      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="20" column="1" />
-      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="18" column="1" />
-      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="19" column="46" />
-      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="28" column="1" />
-      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="144" column="33" />
-      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="152" column="1" />
-      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="139" column="1" />
-      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="143" column="1" />
-      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="46" column="1" />
-      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="72" column="1" />
+      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/IntToBoolConverter.cs" relfile="PhonewordBlank/IntToBoolConverter.cs" line="16" column="26" />
+      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/IntToBoolConverter.cs" relfile="PhonewordBlank/IntToBoolConverter.cs" line="22" column="1" />
+      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/IntToBoolConverter.cs" relfile="PhonewordBlank/IntToBoolConverter.cs" line="23" column="1" />
+      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="16" column="13" />
+      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="34" column="1" />
+      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="20" column="1" />
+      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="18" column="1" />
+      <Breakpoint enabled="false" file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="19" column="46" />
+      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/IntStrToBoolStrConverter.cs" relfile="PhonewordBlank/IntStrToBoolStrConverter.cs" line="28" column="1" />
+      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="144" column="33" />
+      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="152" column="1" />
+      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="139" column="1" />
+      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="143" column="1" />
+      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="46" column="1" />
+      <Breakpoint file="/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/MainPage.xaml.cs" relfile="PhonewordBlank/MainPage.xaml.cs" line="72" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.PhonewordBlank.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />

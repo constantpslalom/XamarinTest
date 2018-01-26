@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewCell xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="PhonewordBlank.CustomViewCell">
+	 <StackLayout BackgroundColor="Gray">
+        <!--
+        <Label Text="{Binding Name}" TextColor="Black" />
+        <Label Text="{Binding Class}" TextColor="Black"/>
+        -->
+
+        <!-- Doesn't work!
+        <Label Text="{Binding CharName}" TextColor="Red" />
+        -->
+
+        <!--
+            Notice how the binding to Class is bound to the items being iterated through
+            in the ListView that uses this, while labelOne's Text is set from CharName
+            which is a bindable property of this cell class and is bound from the ListView
+ 
+        -->
+        <Label Text="{Binding Class}" TextColor="Red" />
+        <Label x:Name="labelOne" Text="" TextColor="Green" />
+    </StackLayout>
+</ViewCell>

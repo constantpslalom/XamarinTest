@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace Phoneword.iOS
+namespace PhonewordBlank.iOS
 {
     public class Application
     {
