@@ -11,8 +11,8 @@
 namespace PhonewordBlank {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/CustomV" +
-        "iewCell.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/CustomView" +
+        "Cell.xaml")]
     public partial class CustomViewCell : global::Xamarin.Forms.ViewCell {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

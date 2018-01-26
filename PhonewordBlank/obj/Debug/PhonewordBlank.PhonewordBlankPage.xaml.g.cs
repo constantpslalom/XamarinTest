@@ -11,8 +11,8 @@
 namespace PhonewordBlank {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/Phonewo" +
-        "rdBlankPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/PhonewordB" +
+        "lankPage.xaml")]
     public partial class PhonewordBlankPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

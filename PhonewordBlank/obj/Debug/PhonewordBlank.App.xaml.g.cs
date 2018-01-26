@@ -11,8 +11,7 @@
 namespace PhonewordBlank {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/App.xam" +
-        "l")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

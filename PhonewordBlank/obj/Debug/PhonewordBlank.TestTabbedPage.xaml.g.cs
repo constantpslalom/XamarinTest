@@ -11,8 +11,8 @@
 namespace PhonewordBlank {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/constantp/Documents/Xamarin Practice/PhonewordBlank/PhonewordBlank/TestTab" +
-        "bedPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/constantp/Documents/Xamarin Practice/XamarinTest/PhonewordBlank/TestTabbed" +
+        "Page.xaml")]
     public partial class TestTabbedPage : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
