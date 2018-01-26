@@ -105,10 +105,12 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		/* We need to ensure that "PhonewordBlank.Droid.dll" comes first in this list. */
-		"PhonewordBlank.Droid.dll",
+		/* We need to ensure that "Phoneword.Droid.dll" comes first in this list. */
+		"Phoneword.Droid.dll",
 		"FormsViewGroup.dll",
-		"PhonewordBlank.dll",
+		"Newtonsoft.Json.dll",
+		"Plugin.Connectivity.Abstractions.dll",
+		"Plugin.Connectivity.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",
 		"Xamarin.Android.Support.Compat.dll",

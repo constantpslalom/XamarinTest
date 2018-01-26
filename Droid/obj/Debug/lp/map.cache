@@ -1,5 +1,7 @@
 FormsViewGroup
-PhonewordBlank
+Newtonsoft.Json
+Plugin.Connectivity.Abstractions
+Plugin.Connectivity
 System.Runtime
 Xamarin.Android.Support.Animated.Vector.Drawable
 Xamarin.Android.Support.Annotations
@@ -21,4 +23,3 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
-System.Diagnostics.Tools
