@@ -1,0 +1,25 @@
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:local="clr-namespace:PhonewordBlank;assembly=PhonewordBlank"
+            x:Class="PhonewordBlank.TestTabbedPage">
+  <TabbedPage.Resources>
+    <ResourceDictionary>
+    </ResourceDictionary>
+  </TabbedPage.Resources>
+  <TabbedPage.ItemTemplate>
+    <DataTemplate>
+      <ContentPage Title="{Binding Name}">
+        <StackLayout Padding="5, 25">
+          <Label Text="{Binding Name}" Font="Bold,Large" HorizontalOptions="Center" />
+          <Image Source="{Binding PhotoUrl}" WidthRequest="50" HeightRequest="50" />
+          <StackLayout Padding="50, 10">
+            <StackLayout Orientation="Horizontal">
+              <Label Text="Weapon:" HorizontalOptions="FillAndExpand" />
+              <Label Text="{Binding Weapon}" Font="Bold,Medium" />
+            </StackLayout>
+          </StackLayout>
+        </StackLayout>
+      </ContentPage>
+    </DataTemplate>
+  </TabbedPage.ItemTemplate>
+</TabbedPage>
